@@ -23,7 +23,6 @@ const game = () => {
     const audio_loss = new Audio("./Sound/game-loss.wav");
     const audio_tie = new Audio("./Sound/game-tie.wav");
     
-    
     //start the game
     const startGame = () => {
         playBtn.addEventListener("click", () => {
@@ -39,9 +38,6 @@ const game = () => {
           });
      });
      
-    // // resetBtn.addEventListener("click", () => {
-    // //     click.play();
-    // });
       
 
     //play match

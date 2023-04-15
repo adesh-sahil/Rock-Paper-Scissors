@@ -3,15 +3,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* background-color: black; */
-    /* color: white; */
 }
 
 section{
     height: 100vh;
     max-width: 100%;
     background-color: rgb(16, 31, 63);
-    /* background-color: black; */
     font-family: roboto;
 }
 
